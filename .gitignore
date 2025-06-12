@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.dll
+*.lib
+*.pyd
+*.h5
+*.pt
+*.zip
+*.tar.gz
+*.log
+*.csv
+*.txt
+data/
